@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.main{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.main_01{
+    background-color: rgb(70, 70, 70);
+    color: white;
+    display: flex;
+}
